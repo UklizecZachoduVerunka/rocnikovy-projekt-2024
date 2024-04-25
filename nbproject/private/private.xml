@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Bulbasaur-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Glaceon-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/all-pokemon.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Infernape-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Ampharos-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/characters/Character.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Latias-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Breloom-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/characters/Move.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Blaziken-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Gardevoir-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/characters/Pokemon.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/readers/MoveReader.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Feraligatr-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Vileplume-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Arcanine-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/readers/ReaderException.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Crobat-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/Type.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/characters/Type.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Ludicolo-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Abomasnow-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Armaldo-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Corviknight-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Forretress-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Banette-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/rocnikovy/projekt/macova/veronika/RocnikovyProjektMacovaVeronika.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Swampert-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Venusaur-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Gyarados-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Sceptile-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Hippowdon-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/characters/Category.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Torterra-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/newfile_34.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Manectric-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Quagsire-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Walrein-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/readers/PokemonReader.java</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Empoleon-moves.txt</file>
+            <file>file:/C:/Users/veron/Desktop/skolaaa/2023-24/ivt/rocnikovy-projekt-macova-veronika/src/data/Blastoise-moves.txt</file>
+        </group>
+    </open-files>
+</project-private>
